@@ -1,0 +1,23 @@
+{
+  "name": "rdef",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unlight/rdef.git"
+  },
+  "keywords": [
+    "require",
+    "es2015",
+    "es6",
+    "default",
+    "import",
+    "export"
+  ],
+  "bugs": {
+    "url": "https://github.com/unlight/rdef/issues"
+  },
+  "homepage": "https://github.com/unlight/rdef#readme"
+}
